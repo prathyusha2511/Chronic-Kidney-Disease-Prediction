@@ -1,0 +1,1 @@
+This project involves the development of a machine learning model for predicting Chronic Kidney Disease (CKD) using Jupyter Notebook. The model utilizes the Filter method for feature selection and reduces dataset dimensionality through feature-feature and feature-class correlation techniques. 
